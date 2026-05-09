@@ -5,7 +5,7 @@
 [![Gemini](https://img.shields.io/badge/Model-Gemini_1.5_Pro-blue?style=for-the-badge)](https://deepmind.google/technologies/gemini/)
 
 ## Project Overview
-This repository features a custom AI Agent built using the **Model Context Protocol (MCP)**. I developed this agent to demonstrate how an LLM (Gemini) can autonomously bridge the gap between static enterprise data and real-world geospatial intelligence.
+This repository contains my implementation and customization of a location intelligence AI agent built using the **Model Context Protocol (MCP)**. I adapted and extended the project to demonstrate how an LLM (Gemini) can bridge the gap between static enterprise data and real-world geospatial intelligence.
 
 The agent solves a complex business challenge: **Identifying the optimal location and pricing strategy for a premium sourdough bakery in Los Angeles.**
 
