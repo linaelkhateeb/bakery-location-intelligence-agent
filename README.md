@@ -1,4 +1,4 @@
-# Bakery Location Intelligence: MCP AI Agent 🥖
+# Bakery Location Intelligence: MCP AI Agent
 
 [![Google Cloud](https://img.shields.io/badge/Tech-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![MCP](https://img.shields.io/badge/Protocol-MCP-green?style=for-the-badge)](https://modelcontextprotocol.io/)
