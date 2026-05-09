@@ -1,0 +1,8 @@
+.env
+*.json
+.venv/
+__pycache__/
+.adk/
+setup_env.sh
+cleanup_env.sh
+
